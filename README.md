@@ -38,6 +38,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CryoEM Course](https://www.coursera.org/learn/cryo-em)
 * [CryoEM 101](https://cryoem101.org)
 * [MRC lab CryoEM](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
+* [Big data in Cryo-EM](https://www.sciencedirect.com/science/article/pii/S1369527417301315)
 
 ### Third party Guides
 [back to top](#readme) 
@@ -70,7 +71,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FindEM](http://www.ccpem.ac.uk/ccpem_projects.php) - CCP-EM projects, automated particle picking from electron micrographs, using Fortran
 * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
 * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
-* [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
+* [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
 * [cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4169.html)
     * [Building proteins in a day: Efficient 3D molecular reconstruction(CVPR2015)](#)
 * [Pathwalker](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307788/pdf/nihms350767.pdf) - Constructing and Validating Initial Cα Models from Subnanometer Resolution Density Maps with Pathwalking, TSP
@@ -119,7 +120,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [PHENIX](https://www.phenix-online.org/) - Automated determination of molecular structures using X-ray crystallography and other methods.
 * [Rosetta](https://www.rosettacommons.org/) - A software suite includes algorithms for computational modeling and analysis of protein structures.
 * [De novo protein structure determination from near-atomic-resolution cryo-EM maps](http://www.nature.com/doifinder/10.1038/nmeth.3287)
-* [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
+* [Atomic accuracy models from 4.5 Å cryo-electron microscopy data with density-guided iterative local refinement](http://www.nature.com/doifinder/10.1038/nmeth.3286)
 * [EMfold](http://www.meilerlab.org/index.php/servers/show?s_id=18) - Meiler Lab,  placement of helices is restricted to CryoEM density regions.
 * SSE based methods.
 * Backbone tracing methods.
